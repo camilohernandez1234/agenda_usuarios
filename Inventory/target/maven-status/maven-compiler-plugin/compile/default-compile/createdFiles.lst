@@ -1,0 +1,15 @@
+com\mycompany\Conection\usuario.class
+com\mycompany\Conection\views\FrnInicio.class
+com\mycompany\Conection\Conection.class
+com\mycompany\Conection\controllers\Ctrlinicio.class
+com\mycompany\Conection\views\FrnInicio$1.class
+com\mycompany\Conection\views\FrnLogin$2.class
+com\mycompany\Conection\Inventory.class
+com\mycompany\Conection\views\FrnInicio$2.class
+com\mycompany\Conection\controllers\CtrlDhasboard.class
+com\mycompany\Conection\views\FrnLogin.class
+com\mycompany\Conection\controllers\CtrlLogin.class
+com\mycompany\Conection\views\FrnDhasboard.class
+com\mycompany\Conection\views\FrnLogin$1.class
+com\mycompany\Conection\MdlUser.class
+com\mycompany\Conection\MdlUsuario.class
